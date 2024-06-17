@@ -16,9 +16,9 @@ if($_SERVER['SERVER_NAME'] == 'localhost')
 }else
 {
 	/** database config **/
-	define('DBNAME', 'furniture');
-	define('DBHOST', 'localhost');
-	define('DBUSER', 'root');
+	define('DBNAME', 'XXXXX');
+	define('DBHOST', 'XXXXX');
+	define('DBUSER', 'XXXXX');
 	define('DBPASS', '');
 	define('DBDRIVER', '');
 
